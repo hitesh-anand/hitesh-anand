@@ -4,8 +4,8 @@
 
 - 🔭 I'm a computer science undergrad at IIT Kanpur
 - 🌱 I like to learn new things related to any domain
-- 👯 I’m interested in Deep Learning as well as Web Development
-- 🥅 2022 Goals: Contribute towards Open Source community
+- 👯 I’m interested in Deep Learning, Algorithms, Web Dev and Cybersecurity
+- 🥅 2022 Goals: Learn more about Cybersec and Algorithms, do projects in DL.
 - ⚡ Fun fact: I love to read books, listen music, play guitar, live life.
 
 ### Connect with me:
