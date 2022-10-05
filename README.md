@@ -29,6 +29,6 @@
 
 </details>
 
-[website]: https://home.iitk.ac.in/~ahitesh20/
+[website]: https://hitesh-anand.github.io/homepage-react/
 [instagram]: https://www.instagram.com/hi.tesh6728/
 [linkedin]: https://www.linkedin.com/in/hitesh-anand
