@@ -19,8 +19,6 @@
 
 ---
 
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-anand&layout=compact)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
