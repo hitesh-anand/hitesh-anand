@@ -20,7 +20,7 @@
 ---
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-anand&hide_progress=false)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-anand&layout=pie)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
