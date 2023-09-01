@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://hitesh-anand.github.io/homepage)
-[![website](./img/globe-dark.svg)](https://hitesh-anand.github.io/homepage)
+[![website](./img/globe-light.svg)](https://hitesh-anand.github.io/homepage#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://hitesh-anand.github.io/homepage#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hitesh-anand#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hitesh-anand#gh-dark-mode-only)
