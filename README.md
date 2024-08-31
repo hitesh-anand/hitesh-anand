@@ -2,8 +2,8 @@
 
 - 🔭 I graduated from IIT Kanpur with a major in Computer Science 
 - 🌱 I like to learn new things related to any domain
-- 👯 I’m interested in Deep Learning, Algorithms, Web Dev and Cybersecurity
-- 🥅 2023 Goals: Learn more about Quantitative Trading, and Cybersecurity
+- 👯 I’m interested in Quantitative Finance, Algorithms, Statistics and Probability
+- 🥅 2024 Goals: Learn more about Statistics and Quantitative Finance
 - ⚡ Fun fact: I love to read books, listen music, play guitar, live life.
 
 ### Connect with me:
