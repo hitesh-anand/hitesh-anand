@@ -1,6 +1,6 @@
 # Hi there, I'm Hitesh Anand 👋 
 
-- 🔭 I'm a computer science undergrad at IIT Kanpur
+- 🔭 I graduated from IIT Kanpur with a major in Computer Science 
 - 🌱 I like to learn new things related to any domain
 - 👯 I’m interested in Deep Learning, Algorithms, Web Dev and Cybersecurity
 - 🥅 2023 Goals: Learn more about Quantitative Trading, and Cybersecurity
